@@ -1,0 +1,7 @@
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\bin\Debug\ProjektApp1.exe.config
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\bin\Debug\ProjektApp1.exe
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\bin\Debug\ProjektApp1.pdb
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\obj\Debug\ProjektApp1.csprojResolveAssemblyReference.cache
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\obj\Debug\ProjektApp1.csproj.CoreCompileInputs.cache
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\obj\Debug\ProjektApp1.exe
+C:\Users\jacek\source\repos\ProjektApp1\ProjektApp1\obj\Debug\ProjektApp1.pdb
